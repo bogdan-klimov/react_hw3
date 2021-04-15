@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+}
+
+button {
+  cursor: pointer;
+  margin: 0 50px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.share-span {
+  margin-top: 20px;
+  display: block;
+}
+
+.wrapper {
+  margin-top: 10rem;
+}
+
+.value-text {
+  font-family: 'Roboto', sans-serif;
+}
+
+.btn {
+  margin-top: 20px;
+  border-radius: 5px;
+  padding: 5px 10px;
+  outline: none;
+  border: 1px solid black;
+  background-color: aqua;
+  font-family: 'Roboto', sans-serif;
+}
+
+.share-span {
+  margin-top: 30px;
+  font-family: 'Roboto', sans-serif;
+}
