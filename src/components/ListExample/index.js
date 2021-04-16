@@ -2,6 +2,8 @@ import React from 'react';
 import data from './../../utils/data.json';
 import { v4 } from 'uuid';
 
+//  import faker from 'faker';
+
 class ListExample extends React.Component {
 
     state = {
